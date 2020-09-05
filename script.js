@@ -1,6 +1,6 @@
 var database =[ {
-	username: "andrei1",
-	password: "supersecret"}];
+	username: "mohamed",
+	password: "eshack"}];
 
 var newsFeed = [
 	{ username:"Bobby",
@@ -24,4 +24,5 @@ function singIn(user,pass){
 		alert("sorry, wrong username and password")
 	}
 
-}sin
+}
+singIn(userNamePrompt, passwordPrompt);
